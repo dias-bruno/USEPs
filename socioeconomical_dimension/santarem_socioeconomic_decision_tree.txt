@@ -1,0 +1,17 @@
+{'criterion': 'gini', 'max_depth': 4, 'min_samples_leaf': 5, 'min_samples_split': 5, 'splitter': 'best'}
+{'F1_Score_Macro': 0.5978186479879778, 'F1_Score_Weighted': 0.6348311891456658, 'Global Acuraccy': 0.6282952548330404}
+              precision    recall  f1-score   support
+
+         2.0       0.40      0.47      0.43       203
+         3.0       0.79      0.73      0.76       531
+         4.0       0.74      0.66      0.70       146
+         6.0       0.48      0.52      0.50       258
+
+    accuracy                           0.63      1138
+   macro avg       0.60      0.59      0.60      1138
+weighted avg       0.64      0.63      0.63      1138
+
+[[ 95  38  14  56]
+ [ 89 390   3  49]
+ [  2   8  96  40]
+ [ 49  59  16 134]]
