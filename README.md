@@ -1,5 +1,4 @@
-# Identifying urban patterns in Brazilian Amazonian cities by remote sensing and machine learning applications: evidence from Santarém and Cametá 
-
+# Urban Socio-Environemental Patterns (USEPs): classification methodology and data access
 
 Bruno Dias dos Santos (1), Carolina Moutinho Duque de Pinho (2), Antonio Paéz(3) and Silvana Amaral(1)
 
